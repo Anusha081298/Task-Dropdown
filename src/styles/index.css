@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: auto;
+    max-width: 680px;
+    padding: 15px;
+}
+
+
+.main-container {
+    padding: 10px;
+}
+
+.container-fluid {
+    color: white
+}
+
+/* .image {
+    width: auto;
+    height: 20px;
+    background: url("src/playground/vector-cute-food-icons.jpg") top center;
+} */
+
+.result-container {
+    padding: 20px;
+    width: auto;
+    text-align: center;
+}
+
+.result {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.result p {
+    padding: 5 px;
+    font-size: larger;
+    font-weight: bolder;
+    color: red;
+}
+
+.sub-container p {
+    padding: 10px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 25 px;
+}
